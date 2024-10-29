@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Web3Kev
 - 🧑‍💻 I develop on Flutter, Unity, React, and Vanilla JS.
-- 🥽 I am particularly intereted in WebXR, and Creative Web Development ✨ using ThreeJS
+- 🥽 I am particularly interested in WebXR, and Creative Web Development ✨ using ThreeJS
 
 <!---
 Web3Kev/Web3Kev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
